@@ -1,5 +1,4 @@
 <h2> Bem vindo ao meu GitHub! :upside_down_face:</h2>	
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 <p><em>QA em desenvolvimento!
   </br>Graduanda em Sistemas de Informação pela 
@@ -27,7 +26,3 @@
  <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a> 
   <a href="https://www.selenium.dev" target="_blank"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/></a> 
 </p>
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Adoro me conectar com pessoas diferentes, então se você quiser dizer oi, ficarei feliz em te conhecer mais! </b></em>
-
----
