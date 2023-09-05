@@ -1,7 +1,7 @@
 <h2> Bem vindo(a) ao meu GitHub! :upside_down_face:</h2>	
 
-<p><em>QA em desenvolvimento!
-  </br>Graduanda em Sistemas de Informação pela 
+<p><em>Analista de Testes
+  </br>Graduada em Sistemas de Informação pela 
     <a href="https://www.quixada.ufc.br/">Universidade Federal do Ceará</a>
     <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
   </br>Analista de Testes Júnior no 
